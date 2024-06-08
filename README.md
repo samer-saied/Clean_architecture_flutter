@@ -1,6 +1,6 @@
 # clean_architecture_flutter
 
-A Flutter project With Clean Architecture + Bloc + MVVC
+A Flutter project With Clean Architecture + Bloc + MVVC + 2 Methods of Routers
 
 ## Structure
 
