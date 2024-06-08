@@ -2,9 +2,20 @@
 
 A Flutter project With Clean Architecture + Bloc + MVVC
 
-## Getting Started
+## Structure
 
-This project is a starting point for a Flutter application.
+1- Domain
+    => Entity
+    => repositories
+    => usecase
+2-Data
+   => Models
+   => repositories
+   => datasources
+3-Presentation
+  => Bloc + State
+  => Screens
+  => Widgets
 
 A few resources to get you started if this is your first Flutter project:
 
